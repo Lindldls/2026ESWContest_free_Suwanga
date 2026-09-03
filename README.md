@@ -9,3 +9,4 @@
 * `main` — 메인 브랜치
 * `feature/firmware` — Firmware 개발 브랜치
 * `feature/sw` — Software 개발 브랜치
+* `feature/hw` — hardware 개발 브랜치
